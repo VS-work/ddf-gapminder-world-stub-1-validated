@@ -1,5 +1,5 @@
 concept,name,concept_type,domain,indicator_url,color,scales,drill_up,unit,interpolation,description
-age,Age,entity_domain,,,,"[""linear"",""log""]",,years,,
+age2,Age,entity_domain,,,,"[""linear"",""log""]",,years,,
 city,City,entity_set,geo,,,"[""ordinal""]","[""country"",""main_religion_2008""]",,,
 code,CODE,string,,,,,,,,
 color,Color,string,,,,,,,,
